@@ -1,7 +1,9 @@
 {
 	"name": "webpack-babel-configuration",
 	"version": "1.0.0",
-	"description": "",
+	"author": "Nguyen Tien Hau",
+	"description": "Webpack Babel Configuration Project",
+	"license": "ISC",
 	"main": "src/index.jsx",
 	"scripts": {
 		"test": "webpack configtest",
@@ -9,8 +11,6 @@
 		"build": "webpack --mode production",
 		"serve": "webpack serve --mode development"
 	},
-	"author": "",
-	"license": "ISC",
 	"devDependencies": {
 		"@babel/core": "^7.24.7",
 		"@babel/preset-env": "^7.24.7",

@@ -12,7 +12,7 @@
 
     npm install babel-loader css-loader style-loader file-loader --save-dev
 
-## Configuration File
+## Configuration Files
 
     webpack.config.js
     .babelrc.json
